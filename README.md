@@ -13,7 +13,7 @@
   <!-- Social links (replace with yours or remove) -->
   <p>
     <a href="https://aaxding.github.io/">Website</a> ·
-    <a href="{https://www.linkedin.com/in/yuheng-ding/">LinkedIn</a> ·
+    <a href="https://www.linkedin.com/in/yuheng-ding/">LinkedIn</a> ·
   </p>
 
 </div>
